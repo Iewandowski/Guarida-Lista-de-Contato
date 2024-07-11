@@ -18,7 +18,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
    git clone https://github.com/Iewandowski/Guarida-Lista-de-Contato.git
 2. Navegue até o diretório do projeto:
    ```bash
-   cd .\contact-list\
+   cd .\Guarida-Lista-de-Contato\
 
 3. Instale as dependências:
    ```bash
